@@ -27,3 +27,4 @@ function myFunction() {
 }
 
 </script>
+https://govtjobindia.com/odisha-opsc-aso-syllabus-exam-pattern/
